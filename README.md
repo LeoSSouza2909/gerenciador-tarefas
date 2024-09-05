@@ -66,6 +66,9 @@ O sistema permitirá que os usuários criem, visualizem, editem e excluam tarefa
 - O projeto deve ser entregue em um repositório público no GitHub.
 - O link do repositório deve ser enviado para avaliação.
 
+3. **Prazo de Entrega:**
+- O candidato deverá concluir e enviar o desafio em até 4 dias corridos, contados a partir do seu recebimento.
+
 ## Critérios de Avaliação: 
 - **Organização e Estrutura do Código:** Boa organização dos arquivos e clareza no código.
 - **Funcionalidade:** O sistema deve atender a todos os requisitos funcionais especificados.
