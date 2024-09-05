@@ -77,7 +77,7 @@ O sistema permitirá que os usuários criem, visualizem, editem e excluam tarefa
 Você pode se destacar no processo seletivo ao implementar funcionalidades adicionais e utilizar ferramentas que melhorem a interface e a usabilidade do sistema. Aqui estão algumas sugestões:
 
 1. **Utilização de Plugins CSS**: 
-   - Implementar o design do sistema utilizando frameworks CSS como Bootstrap, Tailwind CSS, ou outro de sua escolha.
+   - Implementar o design do sistema utilizando frameworks CSS como Bootstrap 4 ou 5.
 
 2. **jQuery**:
    - Utilizar jQuery para adicionar interatividade e manipulação de DOM de forma simples e eficiente.
